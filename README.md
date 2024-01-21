@@ -3,7 +3,7 @@ This is my first Git Respository
 <br>
 Instructor- Ghufran Kamaluddin
 <br>
-As a Student - M.Musaddiq
+As a Group - M.Musaddiq,M.Ubaid
 <br>
 Bano Qabil 2.0 Student
 <br>
