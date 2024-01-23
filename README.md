@@ -1,13 +1,11 @@
 # -Bano-Qabil-2.0-Korangi-Python-Campus-
-This is my first Git Respository
+This is our first Git Respository as a group
 <br>
 Instructor- Ghufran Kamaluddin
 <br>
-As a Student - M.Musaddiq
+As a  group Students - M.Musaddiq and M.Ubaid
 <br>
-Bano Qabil 2.0 Student
-<br>
-Student ID- 55632
+M.Musaddiq : Student ID- 55632 , M.Ubaid : Student ID - 55666
 <br>
 Python CIT 7 To 9
 Korangi Campus
